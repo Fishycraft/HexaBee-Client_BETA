@@ -10,7 +10,11 @@ Mac - **Not here yet!**
 
 Linux - **Not here yet!**
 
-# Resources
+## Requirements
+
+- AdoptOpenJDK 11 LTS
+
+## Resources
 
 AdoptOpenJDK - [AdoptOpenJDK 11 LTS](https://adoptopenjdk.net/)
 
