@@ -4,11 +4,11 @@ HexaBee Client is a minecraft 1.8 PvP client!
 
 ## Downloads
 
-Windows - [Not here yet!](#)
+Windows - **Not here yet!**
 
-Mac - [Not here yet!](#)
+Mac - **Not here yet!**
 
-Linux - [Not here yet!](#)
+Linux - **Not here yet!**
 
 # Resources
 
